@@ -1,9 +1,8 @@
 Summer Programming Class
+
 Session 1
 
-John Nystrom
-(940) 727-9705
-Discord@noldon77
+John Nystrom // (940) 727-9705 // Discord@noldon77
 
 # Introduction
 
